@@ -1,5 +1,12 @@
 # [Title]  [Provide a succinct and descriptive title for the pull request, e.g., "Improve caching mechanism for API calls"]
 
+## Overview
+
+- [ ] Quick fix (Solves an immediate observed deficiency, error, or vulnerability)
+- [ ] Redesign (Reorganizes or removes code to be more reusable, or reuse other libraries)
+- [ ] Implementation (Implements a new feature, library or extends existing ones)
+- [ ] Other (Documentation, Testing, Formatting, Example Code, Code uploaded for review, etc)
+
 ## What? - Description of changes
 
 [Explain what changes were made. Add link any related issues. Is this a "Major" or "Minor" change based on <https://semver.org/> terminology? Indicate if this is a Major change.]
