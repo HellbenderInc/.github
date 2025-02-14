@@ -9,8 +9,8 @@
 
 ## What? - Description of changes
 
-[Explain what changes were made. Add link any related issues. Is this a "Major" or "Minor" change based on <https://semver.org/> terminology? Indicate if this is a Major change.]
-[recommended reading: <https://www.pullrequest.com/blog/writing-a-great-pull-request-description/>]
+<!-- Explain what changes were made. Add link any related issues. Is this a "Major" or "Minor" change based on <https://semver.org/> terminology? Indicate if this is a Major change. -->
+<!-- recommended reading: <https://www.pullrequest.com/blog/writing-a-great-pull-request-description/> -->
 
 ## Why?
 
