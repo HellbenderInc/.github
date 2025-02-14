@@ -20,9 +20,9 @@
 
 [Describe the testing you have performed to ensure that these changes function as intended. Include information about any added tests.]
 
-## How?
+## How? (Optional) 
 
-[(Optional) Include details of the implementation that aren't necessarily obvious from the code. This could also include links to papers or tutorial used to figure out how to write this code.]
+<!-- Include details of the implementation that aren't necessarily obvious from the code. This could also include links to papers or tutorial used to figure out how to write this code. -->
 
 ## Impact/Communications
 
