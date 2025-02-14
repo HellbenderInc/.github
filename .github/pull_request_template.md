@@ -14,7 +14,7 @@
 
 ## Why?
 
-[Provide a description of why these changes are being made. Include the reasons behind these changes and any relevant context. This is one of the most important sections. The code differences will tell us what changed, but it will not tell us why it needs to change.]
+<!-- Provide a description of why these changes are being made. Include the reasons behind these changes and any relevant context. This is one of the most important sections. The code differences will tell us what changed, but it will not tell us why it needs to change. -->
 
 ## Verification/Testing
 
