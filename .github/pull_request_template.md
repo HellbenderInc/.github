@@ -39,7 +39,7 @@
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
 - [ ] My changes don't generate any new warnings
-- [ ] I have updated the appropriate YouTrack tickets related to this code
+- [ ] I have updated the appropriate issue tickets related to this code
 - [ ] I have *not* incorporated GPL-like 3rdParty code
 
 <!-- (Credit: <https://github.com/pieterherman-dev/PR-Template-Guide/tree/main> - modified internally) -->
