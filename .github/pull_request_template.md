@@ -24,9 +24,9 @@
 
 <!-- Include details of the implementation that aren't necessarily obvious from the code. This could also include links to papers or tutorial used to figure out how to write this code. -->
 
-## Impact/Communications
+## Impact/Communications (Optional)
 
-[(Optional) Discuss the impact of your changes on the project. This might include effects on performance, new dependencies, or changes in behaviour.]
+<!-- Discuss the impact of your changes on the project. This might include effects on performance, new dependencies, or changes in behaviour. -->
 
 ## Additional Information
 
