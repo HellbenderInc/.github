@@ -1,4 +1,4 @@
-# [Title]  [Provide a succinct and descriptive title for the pull request, e.g., "Improve caching mechanism for API calls"]
+# Title  <!-- Replace with a succinct and descriptive title for the pull request, e.g., "Improve caching mechanism for API calls" -->
 
 ## Overview
 
@@ -20,7 +20,7 @@
 
 <!-- [Describe the testing you have performed to ensure that these changes function as intended. Include information about any added tests.] -->
 
-## How? (Optional) 
+## How? (Optional)
 
 <!-- Include details of the implementation that aren't necessarily obvious from the code. This could also include links to papers or tutorial used to figure out how to write this code. -->
 
@@ -28,9 +28,9 @@
 
 <!-- Discuss the impact of your changes on the project. This might include effects on performance, new dependencies, or changes in behaviour. -->
 
-## Additional Information
+## Additional Information (Optional)
 
-[(Optional) Any additional information that reviewers should be aware of.]
+<!-- [(Optional) Any additional information that reviewers should be aware of.] -->
 
 ## Checklist
 
