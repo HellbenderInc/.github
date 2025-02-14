@@ -42,4 +42,4 @@
 - [ ] I have updated the appropriate YouTrack tickets related to this code
 - [ ] I have *not* incorporated GPL-like 3rdParty code
 
-(Credit: <https://github.com/pieterherman-dev/PR-Template-Guide/tree/main> - modified internally)
+<!-- (Credit: <https://github.com/pieterherman-dev/PR-Template-Guide/tree/main> - modified internally) -->
