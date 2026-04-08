@@ -20,6 +20,10 @@
 
 <!-- [Describe the testing you have performed to ensure that these changes function as intended. Include information about any added tests.] -->
 
+## AI Usage (Copilot, Claude, etc)
+ 
+<!-- [Describe the usage of AI for these changes. Was it only used for review? Was it used to write evereything in the PR?  Was it used to generate test cases? -->
+
 ## How? (Optional)
 
 <!-- Include details of the implementation that aren't necessarily obvious from the code. This could also include links to papers or tutorial used to figure out how to write this code. -->
