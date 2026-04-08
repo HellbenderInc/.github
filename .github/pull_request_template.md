@@ -22,7 +22,7 @@
 
 ## AI Usage (Copilot, Claude, etc)
  
-<!-- [Describe the usage of AI for these changes. Was it only used for review? Was it used to write evereything in the PR?  Was it used to generate test cases? -->
+<!-- [Describe the usage of AI for these changes (if any). Include which tool(s) and which model(s) were used. Include information on how it was used (ex: Was it used to generate test cases? Was it used for review? Was it used to write everything in the PR?).] -->
 
 ## How? (Optional)
 
